@@ -1,0 +1,160 @@
+{
+  "picBed": {
+    "current": "tcyun",
+    "uploader": "tcyun",
+    "smms": {
+      "token": ""
+    },
+    "list": [
+      {
+        "type": "tcyun",
+        "name": "腾讯云COS",
+        "visible": true
+      },
+      {
+        "type": "aliyun",
+        "name": "阿里云OSS",
+        "visible": false
+      },
+      {
+        "type": "smms",
+        "name": "SM.MS",
+        "visible": false
+      },
+      {
+        "type": "github",
+        "name": "GitHub",
+        "visible": false
+      },
+      {
+        "type": "qiniu",
+        "name": "七牛云",
+        "visible": false
+      },
+      {
+        "type": "imgur",
+        "name": "Imgur",
+        "visible": false
+      },
+      {
+        "type": "upyun",
+        "name": "又拍云",
+        "visible": false
+      },
+      {
+        "type": "webdavplist",
+        "name": "WebDAV",
+        "visible": false
+      }
+    ],
+    "proxy": "",
+    "tcyun": {
+      "secretId": "AKIDvfFaeRyxnOkqgGaeS0IL8fwxiEVVEhto",
+      "secretKey": "h8ICrHSN2SdZGhsnSs2xc1B5j7F7l9H9",
+      "bucket": "markdown-img-1311918448",
+      "appId": "1311918448",
+      "area": "ap-shanghai",
+      "path": "images/",
+      "customUrl": "",
+      "version": "v5",
+      "options": "",
+      "_configName": "Default",
+      "_id": "352cba9b-6427-4278-bed1-8d4ed6bc9675",
+      "_createdAt": 1680339189518,
+      "_updatedAt": 1680339189518
+    },
+    "local": {
+      "_configName": "Default",
+      "_id": "fe5c8f69-a7ec-444c-8eaa-17813e029373",
+      "_createdAt": 1689758796863,
+      "_updatedAt": 1689758796863
+    }
+  },
+  "settings": {
+    "shortKey": {
+      "picgo:upload": {
+        "enable": true,
+        "key": "CommandOrControl+Shift+P",
+        "name": "upload",
+        "label": "快捷上传"
+      }
+    },
+    "server": {
+      "port": 36677,
+      "host": "127.0.0.1",
+      "enable": true
+    },
+    "showUpdateTip": true,
+    "autoRename": true,
+    "rename": false,
+    "proxy": "",
+    "registry": "https://registry.npm.taobao.org/",
+    "privacyEnsure": true,
+    "deleteCloudFile": true,
+    "autoStart": false,
+    "mainWindowWidth": 800,
+    "mainWindowHeight": 450,
+    "isListeningClipboard": false,
+    "miniWindowPosition": [
+      1820,
+      940
+    ],
+    "sync": {
+      "type": "github",
+      "username": "Venomrko",
+      "repo": "PicList",
+      "branch": "main",
+      "token": "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",
+      "proxy": "http://127.0.0.1:7890",
+      "interval": 60
+    }
+  },
+  "picgoPlugins": {
+    "picgo-plugin-squoosh": true
+  },
+  "debug": true,
+  "PICGO_ENV": "GUI",
+  "needReload": false,
+  "picgo-plugin-squoosh": {
+    ".jpg": true,
+    ".png": true,
+    ".webp": true,
+    ".jxl": true,
+    ".avif": true,
+    ".wp2": true,
+    "_configName": "demo"
+  },
+  "uploader": {
+    "tcyun": {
+      "configList": [
+        {
+          "secretId": "AKIDvfFaeRyxnOkqgGaeS0IL8fwxiEVVEhto",
+          "secretKey": "h8ICrHSN2SdZGhsnSs2xc1B5j7F7l9H9",
+          "bucket": "markdown-img-1311918448",
+          "appId": "1311918448",
+          "area": "ap-shanghai",
+          "path": "images/",
+          "customUrl": "",
+          "version": "v5",
+          "options": "",
+          "_configName": "Default",
+          "_id": "352cba9b-6427-4278-bed1-8d4ed6bc9675",
+          "_createdAt": 1680339189518,
+          "_updatedAt": 1680339189518
+        }
+      ],
+      "defaultId": "352cba9b-6427-4278-bed1-8d4ed6bc9675"
+    },
+    "local": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "fe5c8f69-a7ec-444c-8eaa-17813e029373",
+          "_createdAt": 1689758796863,
+          "_updatedAt": 1689758796863
+        }
+      ],
+      "defaultId": "fe5c8f69-a7ec-444c-8eaa-17813e029373"
+    }
+  }
+}
